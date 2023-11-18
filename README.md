@@ -16,7 +16,6 @@ That being said, I have no intention of stopping there, connect with me on my jo
 
 <!-- Other Interests -->
 # Some of my other interests!
-
   ## Podcasts
 
   HubermanLab
@@ -25,7 +24,7 @@ That being said, I have no intention of stopping there, connect with me on my jo
   
   Syntax
 
-  # Games
+  ## Games
 
   League of Legends (I know 😢)
   
