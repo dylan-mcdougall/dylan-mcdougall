@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a developer based in CA but want to eventually be able to travel everywhere I can while I work. I'm intending to work my way into AI and eventually robotics. I used to be big into games to the point where I had aspirations to go pro and even played and coached at the amateur level. At any given point you can safely assume I'm grinding away at some form of growth :triumph: :muscle:
+Software engineer who's current life philosophy boils down to "let's just make some cool sh#t". I used to pursue competitive gaming and coaching, where I developed my mental model for skill acquisition and refinement, and now I'm taking my learnings and applying them to tech.
+
+Currently I'm learning full stack web development as my entry point into tech. I'm focused on technologies like Javascript, Python, AWS, Node.js and others to serve as my foundation in order to provide me with a platform to craft my process. At any given point you can safely assume I'm grinding away at some form of growth :triumph: :muscle:
+
+That being said, I have no intention of stopping there, connect with me on my journey while I continue my path to grow into AI and robotics as well!
 
 ## Current tools in my belt
 
