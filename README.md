@@ -12,7 +12,7 @@ That being said, I have no intention of stopping there, connect with me on my jo
 
 ## Find me here
 
-<a href="https://www.linkedin.com/in/dylanmcdougall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dylan_mcdougall-informational"></a>
+<a href="https://www.linkedin.com/in/dylanmcdougall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dylan_McDougall-informational"></a>
 
 <!-- Other Interests -->
 # Some of my other interests!
