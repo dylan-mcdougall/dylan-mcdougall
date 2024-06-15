@@ -31,8 +31,3 @@ That being said, I have no intention of stopping there, connect with me on my jo
   Final Fantasy
   
   Baldur's Gate
-
-# Github Stats (who doesn't love data??)
-
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-mcdougall&theme=tokyonight&show_icons=true)](https://github.com/dylan-mcdougall/github-readme-stats)
-
